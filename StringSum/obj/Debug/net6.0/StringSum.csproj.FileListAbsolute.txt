@@ -1,0 +1,15 @@
+D:\Course\7 Task\UnitTesting\StringSum\bin\Debug\net6.0\StringSum.exe
+D:\Course\7 Task\UnitTesting\StringSum\bin\Debug\net6.0\StringSum.deps.json
+D:\Course\7 Task\UnitTesting\StringSum\bin\Debug\net6.0\StringSum.runtimeconfig.json
+D:\Course\7 Task\UnitTesting\StringSum\bin\Debug\net6.0\StringSum.dll
+D:\Course\7 Task\UnitTesting\StringSum\bin\Debug\net6.0\StringSum.pdb
+D:\Course\7 Task\UnitTesting\StringSum\obj\Debug\net6.0\StringSum.csproj.AssemblyReference.cache
+D:\Course\7 Task\UnitTesting\StringSum\obj\Debug\net6.0\StringSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\7 Task\UnitTesting\StringSum\obj\Debug\net6.0\StringSum.AssemblyInfoInputs.cache
+D:\Course\7 Task\UnitTesting\StringSum\obj\Debug\net6.0\StringSum.AssemblyInfo.cs
+D:\Course\7 Task\UnitTesting\StringSum\obj\Debug\net6.0\StringSum.csproj.CoreCompileInputs.cache
+D:\Course\7 Task\UnitTesting\StringSum\obj\Debug\net6.0\StringSum.dll
+D:\Course\7 Task\UnitTesting\StringSum\obj\Debug\net6.0\refint\StringSum.dll
+D:\Course\7 Task\UnitTesting\StringSum\obj\Debug\net6.0\StringSum.pdb
+D:\Course\7 Task\UnitTesting\StringSum\obj\Debug\net6.0\StringSum.genruntimeconfig.cache
+D:\Course\7 Task\UnitTesting\StringSum\obj\Debug\net6.0\ref\StringSum.dll

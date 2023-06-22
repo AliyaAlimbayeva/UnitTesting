@@ -1,0 +1,15 @@
+D:\Course\7 Task\UnitTesting\OddEven\bin\Debug\net6.0\OddEven.exe
+D:\Course\7 Task\UnitTesting\OddEven\bin\Debug\net6.0\OddEven.deps.json
+D:\Course\7 Task\UnitTesting\OddEven\bin\Debug\net6.0\OddEven.runtimeconfig.json
+D:\Course\7 Task\UnitTesting\OddEven\bin\Debug\net6.0\OddEven.dll
+D:\Course\7 Task\UnitTesting\OddEven\bin\Debug\net6.0\OddEven.pdb
+D:\Course\7 Task\UnitTesting\OddEven\obj\Debug\net6.0\OddEven.csproj.AssemblyReference.cache
+D:\Course\7 Task\UnitTesting\OddEven\obj\Debug\net6.0\OddEven.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\7 Task\UnitTesting\OddEven\obj\Debug\net6.0\OddEven.AssemblyInfoInputs.cache
+D:\Course\7 Task\UnitTesting\OddEven\obj\Debug\net6.0\OddEven.AssemblyInfo.cs
+D:\Course\7 Task\UnitTesting\OddEven\obj\Debug\net6.0\OddEven.csproj.CoreCompileInputs.cache
+D:\Course\7 Task\UnitTesting\OddEven\obj\Debug\net6.0\OddEven.dll
+D:\Course\7 Task\UnitTesting\OddEven\obj\Debug\net6.0\refint\OddEven.dll
+D:\Course\7 Task\UnitTesting\OddEven\obj\Debug\net6.0\OddEven.pdb
+D:\Course\7 Task\UnitTesting\OddEven\obj\Debug\net6.0\OddEven.genruntimeconfig.cache
+D:\Course\7 Task\UnitTesting\OddEven\obj\Debug\net6.0\ref\OddEven.dll
